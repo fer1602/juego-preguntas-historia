@@ -1,0 +1,153 @@
+[
+    {
+      "categoria": "HISTORIA DE CONTABILIDAD",
+      "pregunta": "¿En qué país se publicó el libro de la Caja y Manual de Mercedes y otras personas en el año 1540?",
+      "respuesta": "España",
+      "incorrecta1": "Inglaterra",
+      "incorrecta2": "México",
+      "incorrecta3": "Francia",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGSdX8w_tEG4OG4KWXzG-P5yw6RyWGRU2EZA&s",
+      "objectFit": "contain"
+    },
+    {
+      "categoria": "HISTORIA DE CONTABILIDAD",
+      "pregunta": "Al nacer el comercio ¿a qué dio origen?",
+      "respuesta": "Contabilidad",
+      "incorrecta1": "Arquitectura",
+      "incorrecta2": "Filosofía",
+      "incorrecta3": "Ingeniería",
+      "imagen": "https://static.vecteezy.com/system/resources/previews/009/195/237/non_2x/a-light-bulb-show-up-from-open-book-concept-of-idea-s-source-cartoon-illustration-design-vector.jpg",
+      "objectFit": "contain"
+    },
+    {
+      "categoria": "HISTORIA DE CONTABILIDAD",
+      "pregunta": "¿Qué título se le otorgó al Capitán don Alfonso de Ávila en la época colonial?",
+      "respuesta": "Contador",
+      "incorrecta1": "Tesoro Real",
+      "incorrecta2": "Notario Mayor",
+      "incorrecta3": "Administrador",
+      "imagen": "https://definicion.de/wp-content/uploads/2011/12/contador-1.jpg",
+      "objectFit": "contain"
+    },
+    {
+      "categoria": "HISTORIA DE CONTABILIDAD",
+      "pregunta": "¿Cuáles son las siglas de la escuela que se fundó el 1 de julio de 1868 en México?",
+      "respuesta": "ESCA",
+      "incorrecta1": "UNAM",
+      "incorrecta2": "IPN",
+      "incorrecta3": "UAM",
+      "imagen": "https://img.freepik.com/vector-gratis/ilustracion-edificio-escuela_138676-2399.jpg?semt=ais_hybrid&w=740",
+      "objectFit": "contain"
+    },
+    {
+      "categoria": "HISTORIA DE CONTABILIDAD",
+      "pregunta": "¿Cuál fue la primera civilización esencialmente comercial?",
+      "respuesta": "Babilonia",
+      "incorrecta1": "Egipto",
+      "incorrecta2": "Roma",
+      "incorrecta3": "Grecia",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/DSC_0658-Recovered.jpg/1200px-DSC_0658-Recovered.jpg",
+      "objectFit": "contain"
+    },
+    {
+      "categoria": "HISTORIA DE CONTABILIDAD",
+      "pregunta": "¿Cuáles son los apellidos del presidente de México que impulsó la carrera de contador público?",
+      "respuesta": "López Mateos",
+      "incorrecta1": "Cárdenas Solórzano",
+      "incorrecta2": "Juárez García",
+      "incorrecta3": "Salinas de Gortari",
+      "imagen": "https://png.pngtree.com/png-clipart/20230423/original/pngtree-president-vector-png-image_9090643.png",
+      "objectFit": "contain"
+    },
+    {
+      "categoria": "HISTORIA DE CONTABILIDAD",
+      "pregunta": "¿Cómo se llama el libro donde los padres registraban ingresos y egresos mensuales?",
+      "respuesta": "Codex",
+      "incorrecta1": "Cartilla",
+      "incorrecta2": "Libro mayor",
+      "incorrecta3": "Registro familiar",
+      "imagen": "https://images.jifo.co/39274745_1551833721013.jpg",
+      "objectFit": "contain"
+    },
+    {
+      "categoria": "HISTORIA DE CONTABILIDAD",
+      "pregunta": "¿Cuáles son los apellidos del primer contador público titulado el 25 de mayo de 1907?",
+      "respuesta": "Diez Barroso",
+      "incorrecta1": "Pérez López",
+      "incorrecta2": "Hernández Torres",
+      "incorrecta3": "Ramírez Ruiz",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMzpzvkFyWJ6-N1bXW2IE6OHDeCk9NAN1OIg&s",
+      "objectFit": "contain"
+    },
+    {
+      "categoria": "HISTORIA DE CONTABILIDAD",
+      "pregunta": "¿A qué país se le atribuye la invención del papel?",
+      "respuesta": "China",
+      "incorrecta1": "Egipto",
+      "incorrecta2": "India",
+      "incorrecta3": "Grecia",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/China_on_the_globe_%28all_claims_hatched%29_%28Asia_centered%29_%28alternative%29.svg/800px-China_on_the_globe_%28all_claims_hatched%29_%28Asia_centered%29_%28alternative%29.svg.png",
+      "objectFit": "contain"
+    },
+    {
+      "categoria": "HISTORIA DE CONTABILIDAD",
+      "pregunta": "¿A qué se le conoce como el precursor de los sistemas tabulares?",
+      "respuesta": "Edmon Lagrange",
+      "incorrecta1": "Isaac Newton",
+      "incorrecta2": "Jules Verne",
+      "incorrecta3": "Marco Polo",
+      "imagen": "https://contabilidadbasica.com/wp-content/uploads/Edmond-Degranges.jpg",
+      "objectFit": "contain"
+    },
+    {
+      "categoria": "HISTORIA DE CONTABILIDAD",
+      "pregunta": "¿Los números romanos fueron sustituidos por?",
+      "respuesta": "Arábigos",
+      "incorrecta1": "Chinos",
+      "incorrecta2": "Egipcios",
+      "incorrecta3": "Hebreos",
+      "imagen": "https://d2ylifvwrvqj76.cloudfront.net/tips/21/Roman-Numeral-Converter.jpg",
+      "objectFit": "contain"
+    },
+    {
+      "categoria": "HISTORIA DE CONTABILIDAD",
+      "pregunta": "¿A quién se le conoce como el padre de la contabilidad?",
+      "respuesta": "Luca Pacioli",
+      "incorrecta1": "Leonardo da Vinci",
+      "incorrecta2": "Galileo Galilei",
+      "incorrecta3": "Sócrates",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7hxFkinveZff40f_7S64x4AogbsKeA3h7GQ&s",
+      "objectFit": "contain"
+    },
+    {
+      "categoria": "HISTORIA DE CONTABILIDAD",
+      "pregunta": "¿Quiénes fueron los comerciantes del primer orden y precursores de la contabilidad?",
+      "respuesta": "Genoveses",
+      "incorrecta1": "Romanos",
+      "incorrecta2": "Griegos",
+      "incorrecta3": "Fenicios",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT2SbmxUDQYZSmy_MMEZW4SUrHkTaIMTf96Q&s",
+      "objectFit": "contain"
+    },
+    {
+      "categoria": "HISTORIA DE CONTABILIDAD",
+      "pregunta": "¿En qué ciudad los padres de familia debían registrar diariamente ingresos y egresos?",
+      "respuesta": "Roma",
+      "incorrecta1": "Atenas",
+      "incorrecta2": "Florencia",
+      "incorrecta3": "Cartago",
+      "imagen": "https://img.freepik.com/vector-premium/registrar-informacion-importante_18660-3992.jpg",
+      "objectFit": "contain"
+    },
+    {
+      "categoria": "HISTORIA DE CONTABILIDAD",
+      "pregunta": "¿Quiénes contribuyeron al desarrollo de la banca y el comercio?",
+      "respuesta": "Fenicios",
+      "incorrecta1": "Persas",
+      "incorrecta2": "Egipcios",
+      "incorrecta3": "Mayas",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnmt9YfrrM4Mhx7icPkOHadTimTsxSexZvdg&s",
+      "objectFit": "contain"
+    }
+  ]
+  
